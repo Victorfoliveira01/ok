@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\ok\ok\bin\Debug\ok.exe.config
+C:\Users\Tecnico\source\repos\ok\ok\bin\Debug\ok.exe
+C:\Users\Tecnico\source\repos\ok\ok\bin\Debug\ok.pdb
+C:\Users\Tecnico\source\repos\ok\ok\obj\Debug\ok.csprojAssemblyReference.cache
+C:\Users\Tecnico\source\repos\ok\ok\obj\Debug\ok.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\ok\ok\obj\Debug\ok.exe
+C:\Users\Tecnico\source\repos\ok\ok\obj\Debug\ok.pdb
